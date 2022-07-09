@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   - [Calculator using React 🧮](https://spandana1401.github.io/react_calculator/)  
   - [ToDo Web App 📔](https://spandana1401.github.io/letsgrowmore_todo/)
   - [Registration form 📧](https://spandana1401.github.io/letsgrowmore_registration_form.js/)
-  - [Crazy Watch 🎥](https://github.com/spandana1401/crazywatch.git)
+  - [Crazy Watch 🎥](https://spandana1401.github.io/crazywatch/)
 <h3 align="center">Just A Programming Geek</h3>
 
 <p align="left">
